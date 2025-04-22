@@ -31,6 +31,9 @@ pip install -r requirements.txt
 
 4. Делаем миграции
 
+
+
+
 ```
 python yatube_api/manage.py migrate
 ```
